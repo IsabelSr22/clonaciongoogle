@@ -27,4 +27,4 @@ contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estandar en HTML5 y CSS3.
 
 ## 4. Link a demo 
-Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google](#)
+Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google](https://aquamarine-dusk-bcd326.netlify.app/)
